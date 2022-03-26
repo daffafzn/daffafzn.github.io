@@ -6,7 +6,7 @@ window.open("autumn_effect.htm","","width=350,height=500")
 }
 
   
-  var snowsrc="fonts/icomoon/icomoon/demo-files/autum-white.png"
+  var snowsrc="fonts/icomoon/icomoon/demo-files/autum-yellow.png"
   var no = 5;
   var hidesnowtime = 0;
    var snowdistance = "pageheight";
